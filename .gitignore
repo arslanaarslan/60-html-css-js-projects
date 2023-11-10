@@ -1,3 +1,6 @@
 # Replit ignored file and folder
 .replit
 *.nix
+
+# WebStorm
+.idea/
